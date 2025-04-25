@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: math_tools_anderson
+Version: 0.1.0
+Summary: Pacote simples de operações matemáticas
+Author: Seu Nome
+Author-email: seuemail@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: summary

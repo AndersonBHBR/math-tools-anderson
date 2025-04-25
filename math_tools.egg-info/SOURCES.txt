@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+math_tools.egg-info/PKG-INFO
+math_tools.egg-info/SOURCES.txt
+math_tools.egg-info/dependency_links.txt
+math_tools.egg-info/top_level.txt
+tests/test_math_utils.py
